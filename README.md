@@ -14,3 +14,5 @@ http://www.vogella.com/tutorials/EasyMock/article.html
 	* ```times()```: defines how often the Mock object will be called. 
 
 	* ```replay()```: is called to make Mock object available. 
+
+	* ```verify()```: checks if the mock object was called as defined.
