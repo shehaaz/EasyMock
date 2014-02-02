@@ -3,7 +3,7 @@ http://www.vogella.com/tutorials/EasyMock/article.html
 
 * EasyMock instantiates an object based on an interface or class.
 
-	* ```java createNiceMock() ``` : creates a mock which returns default values for methods which are not overridden.
+	* ```createNiceMock() ``` : creates a mock which returns default values for methods which are not overridden.
 
 	* Mock(): generic
 
