@@ -1,5 +1,10 @@
 **Learning EasyMock using Vogella's tutorial:**
-http://www.vogella.com/tutorials/EasyMock/article.html
+
+http://www.vogella.com/tutorials/EasyMock/article.html 
+
+AND 
+
+http://www.michaelminella.com/testing/unit-testing-with-junit-and-easymock.html
 
 * EasyMock instantiates an object based on an interface or class.
 
